@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/javascript/java-script-from-zero/","dgShowToc":true,"updated":"2025-06-02T15:42:07.831+05:30"}
+{"dg-publish":true,"permalink":"/content-folders/javascript/java-script-from-zero/","dgShowToc":true}
 ---
 
 

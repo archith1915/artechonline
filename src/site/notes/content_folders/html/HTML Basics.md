@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/html/html-basics/","updated":"2025-06-02T15:55:47.666+05:30"}
+{"dg-publish":true,"permalink":"/content-folders/html/html-basics/"}
 ---
 
 

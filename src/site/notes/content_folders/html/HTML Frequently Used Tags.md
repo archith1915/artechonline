@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/html/html-frequently-used-tags/","updated":"2025-06-02T15:56:00.276+05:30"}
+{"dg-publish":true,"permalink":"/content-folders/html/html-frequently-used-tags/"}
 ---
 
 

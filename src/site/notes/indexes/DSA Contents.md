@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/dsa-contents/","title":"DSA Contents","dgEnableSearch":true,"updated":"2025-06-02T15:55:12.619+05:30"}
+{"dg-publish":true,"permalink":"/indexes/dsa-contents/","title":"DSA Contents","dgEnableSearch":true}
 ---
 
 Contents related to Data Structures and Algorithms

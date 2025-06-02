@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/javascript/windows-object/","dgShowToc":true,"updated":"2025-06-02T15:42:23.816+05:30"}
+{"dg-publish":true,"permalink":"/content-folders/javascript/windows-object/","dgShowToc":true}
 ---
 
 <span style="color: #fff;">The Windows object represents an open window in a browser.</span>

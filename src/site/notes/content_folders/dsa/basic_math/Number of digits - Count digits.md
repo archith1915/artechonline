@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/number-of-digits-count-digits/","updated":"2025-06-02T15:32:17.878+05:30"}
+{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/number-of-digits-count-digits/"}
 ---
 
 

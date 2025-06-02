@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/html-contents/","title":"HTML Contents","dgEnableSearch":true,"updated":"2025-06-02T15:47:43.086+05:30"}
+{"dg-publish":true,"permalink":"/indexes/html-contents/","title":"HTML Contents","dgEnableSearch":true}
 ---
 
 Contents related to HTML
