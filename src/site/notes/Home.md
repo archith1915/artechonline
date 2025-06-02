@@ -17,7 +17,7 @@ Whether you're a student, aspiring developer, or experienced engineer, this plat
 
 ---
 
-##  What You’ll Find Here
+##  📚 What You’ll Find Here
 
 #### 🔹 **Programming Language References**
 
@@ -61,7 +61,7 @@ Comprehensive notes and cheat-sheets for:
 - Architecture diagrams, development workflow, and deployment
     
 - Learn by building — from portfolio websites to backend APIs
-
+<br>
 #### 🔹 **Exam & Interview Prep**
 
 - Commonly asked coding and theory questions

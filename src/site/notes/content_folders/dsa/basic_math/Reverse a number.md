@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/reverse-a-number/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/reverse-a-number/","tags":["leetcode","codingninjas","vsc","dsa","math"],"dgShowToc":true}
 ---
 
-| **Title**       | Reverse a number                        |
-| --------------- | --------------------------------------- |
-| **Date solved** | 31-05-2025                              |
-| **Platform**    | LeetCode, Coding Ninjas, VSCode         |
-| **Reference**   | Strivers                                |
-| **Tags**        | #dsa #math #vsc #leetcode #codingninjas |
+| **Title**     | Reverse a number                        |
+| ------------- | --------------------------------------- |
+| **Platform**  | LeetCode, Coding Ninjas, VSCode         |
+| **Reference** | Strivers                                |
+| **Tags**      | #dsa #math #vsc #leetcode #codingninjas |
 # Concept
 
 #### Objective: 

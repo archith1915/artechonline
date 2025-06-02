@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/number-of-digits-count-digits/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/number-of-digits-count-digits/","tags":["codingninjas","vsc","dsa","math"],"dgShowToc":true}
 ---
 
 
-| **Title**       | Number of digits              |
-| --------------- | ----------------------------- |
-| **Date solved** | 31-05-2025                    |
-| **Platform**    | Coding Ninjas, VSCode         |
-| **Reference**   | Strivers                      |
-| **Tags**        | #dsa #math #vsc #codingninjas |
+| **Title**     | Number of digits              |
+| ------------- | ----------------------------- |
+| **Platform**  | Coding Ninjas, VSCode         |
+| **Reference** | Strivers                      |
+| **Tags**      | #dsa #math #vsc #codingninjas |
 # Concept
 
 ### Objective: 
