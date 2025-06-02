@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/data-structures-and-algorithms/","title":"DSA Contents","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/indexes/data-structures-and-algorithms/","title":"DSA Contents","dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 Contents related to Data Structures and Algorithms
