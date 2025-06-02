@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","title":"Artech - Home","tags":["gardenEntry"],"dgEnableSearch":true}
 ---
 
-<img src="/assets/logo2.svg" style="display:block; margin:auto; height:45vh; width:auto">
+<img src="https://i.ibb.co/prsTXsJj/logo2.png" style="display:block; margin:auto; height:45vh; width:auto">
 
 
 <h1 align="center">
