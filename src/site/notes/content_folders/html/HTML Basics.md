@@ -23,7 +23,7 @@
 - Anything inside the \<body\> tag is displayed on the webpage. The \<head\> tag is used to store meta information and link CSS and JavaScript files.
 - A simple HTML boilerplate looks like this :
 
-```
+```html
 <!DOCTYPE html>
 
 <html lang="en">
@@ -51,3 +51,9 @@
 - The \<html\> tag with lang="en" denotes the default language used in the webpage. 
 - The \<title\> tag is used to display the title of the webpage on the tabs in the browser.
 - Every tag used in the HTML code needs to be closed. A '/' after the angle bracket denotes the closing tag. Ex: \</body>, \</head>, etc.
+
+
+
+---
+*Created : .*
+*Last Modified : .*

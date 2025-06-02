@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/all-divisors-of-a-number/","dgShowToc":true}
 ---
 
+
 | **Title**     | All divisors of a number      |
 | ------------- | ----------------------------- |
 | **Platform**  | VSCode, Coding Ninjas         |
@@ -34,7 +35,7 @@ In the cycle above, it can be seen that all the combinations after 6 x 6, the sq
 
 # Code
 
-```
+```c++
 #include <iostream>
 
 #include <cmath>
@@ -95,4 +96,12 @@ int main()
 
 # Time complexity
 
-The time complexity of this algorithm is $O( \sqrt(N) )$ while the complexity for the brute force method is $ O( log_{10} (N)) $
+The time complexity of this algorithm is $O( \sqrt(N) )$ while the complexity for the brute force method is $O( log_{10} (N))$
+
+
+
+
+
+---
+*Created : .*
+*Last Modified : .*

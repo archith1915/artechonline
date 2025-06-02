@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/content-folders/javascript/java-script-from-zero/","dgShowToc":true}
 ---
 
+# Index
+
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
 
 1. Use console.log() to print something on to the console
 
@@ -37,7 +47,7 @@
 
 # Introduction to strings
 
-```
+```js
 let name = "Archith";
 ```
 
@@ -56,7 +66,7 @@ let name = "Archith";
 - trim() method is used to remove unnecessary spaces at the beginning and end of the string.
 - Since strings are immutable, the result of the trim() method is a new string and must be stored to a variable. (Either the same variable as the existing string or a new one).
 
-```
+```js
 let name = "    Archith     ";
 name = name.trim() //assigning to the same variable
 let name2 = name.trim() //assigning to a new variable
@@ -93,7 +103,7 @@ JS resolves the datatypes of variables and constants automatically and hence doe
 
 - The 'typeof' operator is used to find the datatype of a variable declared in the program.
 
-```
+```js
 let age = 19;
 let name = "Archith";
 console.log(typeof age) //logs 'number'
@@ -108,7 +118,7 @@ let age = 19;
 
 Here, variable 'age' is a number. To convert it to a string, append an empty string to the variable. 
 
-```
+```js
 let age = 19;
 let age1 = 19 + "";
 ```
@@ -121,7 +131,7 @@ let num = "19";
 
 Here, num, with it's value enclosed in double quotes, is a string. To convert it into a string, just prefix a '+' symbol. 
 
-```
+```js
 let num = "19";
 let num1 = +"19";
 ```
@@ -132,21 +142,21 @@ The variable 'num1' is now a number.
 
 - To convert a number into string, one can use String() method. 
 
-```
+```js
 let age = 19;
 let age1 = String(age);
 ```
 
 - To convert a string into number, one can make use of Number() method.
 
-```
+```js
 let num = "19";
 let num1 = Number(num);
 ```
 
 ## String concatenation
 
-```
+```js
 let firstname = "Archith";
 let lastname = "Chinnadamane";
 console.log(firstname + " " + lastname); //logs 'Archith Chinnadamane'
@@ -154,7 +164,7 @@ console.log(firstname + " " + lastname); //logs 'Archith Chinnadamane'
 
 > When operating on numbers stored as strings, it is crucial to convert them to numbers.
 
-```
+```js
 let string1 = "17";
 let string2 = "10";
 console.log(string1 + string2); //logs 1710
@@ -169,7 +179,7 @@ The extra '+' symbols prefixed to the names of both variables convert them to nu
 - Programmers can use template strings to avoid this.
 - Backticks and dollar symbols are used in template string definitions
 
-```
+```js
 let aboutMe = `My name is $name and my age is $age`;
 console.log(aboutMe);
 ```
@@ -182,7 +192,7 @@ console.log(aboutMe);
 
 - Any variable that is created or declared but not initialized or not assigned with a value becomes undefined.
 
-```
+```js
 let name;
 console.log(typeof name) //logs 'undefined'
 ```
@@ -193,7 +203,7 @@ console.log(typeof name) //logs 'undefined'
 
 - 'null' means nothing.
 
-```
+```js
 let name = null;
 console.log(typeof name); //logs 'null'
 ```
@@ -228,7 +238,7 @@ Usage of these operators in JavaScript is similar to that in other programming l
 
 # if and else statements
 
-```
+```js
 if (condition){
 	statements for true part;
 }
@@ -243,7 +253,7 @@ Ternary operators are advanced if-else statements with both if and else parts de
 
 A conventional if-else block :
 
-```
+```js
 if (age >= 5){
 	drink = "Coffee";
 }
@@ -254,7 +264,7 @@ else{
 
 The same example can be written using ternary operator as follows :
 
-```
+```js
 let drink = age >= 5 ? "Coffee" : "Milk";
 ```
 
@@ -279,7 +289,7 @@ Also called if-else ladder, includes multiple if-else statements nested inside e
 
 An alternative to if-else statements, mostly used when there are many possibilities, is a switch statement.
 
-```
+```js
 switch (variable){
 case ' ' :
 	statement;
@@ -297,7 +307,7 @@ default :
 
 A while loop is used to repeatedly execute a task as long as a condition is true.
 
-```
+```js
 while (condition){
 	statements to be executed;
 	increment loop variable;
@@ -309,7 +319,7 @@ while (condition){
 
 For loops are used when the terminating condition is known.
 
-```
+```js
 for (let i=0; i<=10; i++){
 	statements to be executed;
 }
@@ -318,3 +328,10 @@ for (let i=0; i<=10; i++){
 
 # break and continue statements
 
+
+
+
+
+---
+*Created : .*
+*Last Modified : .*
