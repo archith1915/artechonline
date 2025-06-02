@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/basic-math-problems-list/","updated":"2025-06-02T15:29:06.991+05:30"}
+{"dg-publish":true,"permalink":"/indexes/basic-math-problems-list/","title":"Basic Math Problems List","dgEnableSearch":true,"updated":"2025-06-02T15:34:32.834+05:30"}
 ---
 
 | File                                                                                                   |

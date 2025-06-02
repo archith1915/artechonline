@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-06-02T15:30:17.003+05:30"}
+{"dg-publish":true,"permalink":"/home/","title":"Artech - Home","tags":["gardenEntry"],"updated":"2025-06-02T15:34:42.950+05:30"}
 ---
 
 # Welcome to Artech Online
 
-[[indexes/contents\|contents]]
+[[indexes/Web Contents\|Web Contents]]
 
 
 Your one-stop hub for **Software Engineering** insights, programming references, and in-depth **DSA** problem solutions.
