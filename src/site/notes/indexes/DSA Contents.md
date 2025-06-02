@@ -5,4 +5,4 @@
 Contents related to Data Structures and Algorithms
 <br>
 
-- [[indexes/Basic Math Problems list\|Basic Math Problems list]]
+- [[content_indexes/Basic Math Problems list\|Basic Math Problems list]]
