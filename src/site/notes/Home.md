@@ -2,8 +2,11 @@
 {"dg-publish":true,"permalink":"/home/","title":"Artech - Home","tags":["gardenEntry"],"dgEnableSearch":true}
 ---
 
-# Welcome to Artech Online
+<h1 align="center">
 
+Welcome to Artech Online
+
+</h1>
 
 Your one-stop hub for **Software Engineering** insights, programming references, and in-depth **DSA** problem solutions.
 
@@ -16,10 +19,13 @@ Whether you're a student, aspiring developer, or experienced engineer, this plat
 
 
 ---
+ <h2 align="center">
+ 
+ What You’ll Find Here
 
-##  📚 What You’ll Find Here
+</h2>
 
-#### 🔹 **Programming Language References**
+#### -> **Programming Language References**
 
 Comprehensive notes and cheat-sheets for:
 
@@ -31,7 +37,7 @@ Comprehensive notes and cheat-sheets for:
 
 <br><br>
 
-#### 🔹 **DSA Problems & Solutions**
+#### -> **DSA Problems & Solutions**
 
 - Categorized Data Structures and Algorithms problems
     
@@ -43,7 +49,7 @@ Comprehensive notes and cheat-sheets for:
 
 <br><br>
 
-#### 🔹 **Technology & Frameworks**
+#### -> **Technology & Frameworks**
 
 - Tutorials on tools and frameworks like Git, Docker, REST APIs, React, Django, etc.
     
@@ -54,15 +60,17 @@ Comprehensive notes and cheat-sheets for:
 <br><br>
 
 
-#### 🔹 **Project-Based Learning**
+#### -> **Project-Based Learning**
 
 - Sample mini-projects with complete source code
     
 - Architecture diagrams, development workflow, and deployment
     
 - Learn by building — from portfolio websites to backend APIs
-<br>
-#### 🔹 **Exam & Interview Prep**
+
+<br><br>
+
+#### -> **Exam & Interview Prep**
 
 - Commonly asked coding and theory questions
     
@@ -73,7 +81,12 @@ Comprehensive notes and cheat-sheets for:
 
 <br><br>
 
-##  🚀 Why This Platform?
+
+<h2 align="center">
+
+Why This Platform?
+
+</h2>
 
 We believe learning should be:
 
@@ -84,13 +97,18 @@ We believe learning should be:
 - **Organized:** Clean categories and search to save your time.
 
 
+
 <br><br>
 
-### 🧠 Start Exploring
+<h2 align="center">
+
+Start Exploring
+
+</h2>
 
 > “Software engineering is not about writing code. It’s about solving problems and delivering value.”
 
-🔍 Use the navigation above or search bar to dive into topics you're curious about. New content added regularly!
+- Use the navigation above or search bar to dive into topics you're curious about. New content added regularly!
 
 <br><br><br><br>
 <center>
@@ -98,3 +116,12 @@ Managed by J A Archith
 </center>
 
 
+
+
+
+
+```button
+name PDF
+type command
+action Export to PDF...
+```
