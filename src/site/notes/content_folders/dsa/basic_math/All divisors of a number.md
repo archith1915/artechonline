@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/all-divisors-of-a-number/","dgShowToc":true}
 ---
 
-| **Title**       | All divisors of a number      |
-| --------------- | ----------------------------- |
-| **Platform**    | VSCode, Coding Ninjas         |
-| **Reference**   | Strivers                      |
-| **Tags**        | #dsa #codingninjas #vsc #math |
+| **Title**     | All divisors of a number      |
+| ------------- | ----------------------------- |
+| **Platform**  | VSCode, Coding Ninjas         |
+| **Reference** | Strivers                      |
+| **Tags**      | #dsa #codingninjas #vsc #math |
 # Concept
 
 #### Objective: 
@@ -95,4 +95,4 @@ int main()
 
 # Time complexity
 
-The time complexity of this algorithm is $$ O( \sqrt(N) ) $$ while the complexity for the brute force method is $$ O( log_{10} (N)) $$
+The time complexity of this algorithm is $ O( \sqrt(N) ) $ while the complexity for the brute force method is $ O( log_{10} (N)) $

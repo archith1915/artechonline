@@ -86,4 +86,4 @@ Once all the iterations are completed, an if condition compares the reverse numb
 
 # Time complexity
 
-The time complexity for the above code is $$ O( log_{10} (N) ) $$ since the number is divided by 10 in each iteration. Further explanation provided in [[content_folders/dsa/time_complexity/TC - Basics\|TC - Basics]] file.
+The time complexity for the above code is $ O( log_{10} (N) ) $ since the number is divided by 10 in each iteration. Further explanation provided in [[content_folders/dsa/time_complexity/TC - Basics\|TC - Basics]] file.
