@@ -4,12 +4,11 @@
 
 Browse through the site's content here:
 <br>
-| File                                                                      |
+| Categories                                                                |
 | ------------------------------------------------------------------------- |
 | [[indexes/Data Structures & Algorithms\|Data Structures & Algorithms]] |
 | [[indexes/Hyper Text Markup Language\|Hyper Text Markup Language]]     |
 | [[indexes/JavaScript\|JavaScript]]                                     |
 | [[indexes/Machine Learning\|Machine Learning]]                         |
-| [[indexes/Web Contents\|Web Contents]]                                 |
 
 { .block-language-dataview}

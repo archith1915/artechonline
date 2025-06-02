@@ -5,7 +5,7 @@
 Contents related to HTML
 <br>
 
-| File                                                                             |
+| Topics                                                                           |
 | -------------------------------------------------------------------------------- |
 | [[content_folders/html/HTML Basics\|HTML Basics]]                             |
 | [[content_folders/html/HTML Frequently Used Tags\|HTML Frequently Used Tags]] |
