@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/number-of-digits-count-digits/","tags":["codingninjas","vsc","dsa","math"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/number-of-digits-count-digits/","dgShowToc":true}
 ---
 
 

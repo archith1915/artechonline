@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/palindrome/","tags":["dsa","leetcode","vsc","math"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/palindrome/","dgShowToc":true}
 ---
 
 

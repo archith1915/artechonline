@@ -112,8 +112,3 @@ Start Exploring
 Managed by J A Archith
 </center>
 
-
-
-
-
-

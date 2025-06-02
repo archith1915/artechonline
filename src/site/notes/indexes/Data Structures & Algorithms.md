@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/data-structures-and-algorithms/","title":"DSA Contents","dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/indexes/data-structures-and-algorithms/","title":"DSA Contents","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 Contents related to Data Structures and Algorithms
@@ -9,8 +9,8 @@ Contents related to Data Structures and Algorithms
 | File                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ |
 | [[content_folders/dsa/basic_math/Number of digits - Count digits\|Number of digits - Count digits]] |
-| [[content_folders/dsa/basic_math/Palindrome\|Palindrome]]                                           |
 | [[content_folders/dsa/basic_math/Reverse a number\|Reverse a number]]                               |
+| [[content_folders/dsa/basic_math/Palindrome\|Palindrome]]                                           |
 
 { .block-language-dataview}
 ## Time Complexity
