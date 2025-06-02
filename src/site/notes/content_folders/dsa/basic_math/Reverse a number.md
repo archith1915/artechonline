@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/reverse-a-number/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/reverse-a-number/","dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 | **Title**     | Reverse a number                        |

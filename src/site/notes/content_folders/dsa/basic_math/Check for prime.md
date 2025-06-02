@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/check-for-prime/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/check-for-prime/","dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 | **Title**     | Check for prime |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/all-divisors-of-a-number/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/all-divisors-of-a-number/","dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 | **Title**     | All divisors of a number      |
