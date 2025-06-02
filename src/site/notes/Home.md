@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-06-02T14:58:59.368+05:30"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-06-02T15:10:28.050+05:30"}
 ---
 
 # Welcome to Artech Online
+
+[[test\|test]]
 
 Your one-stop hub for **Software Engineering** insights, programming references, and in-depth **DSA** problem solutions.
 
