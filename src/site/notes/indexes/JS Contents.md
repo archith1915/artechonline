@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/js-contents/","title":"DSA Contents","dgEnableSearch":true,"updated":"2025-06-02T15:39:56.351+05:30"}
+{"dg-publish":true,"permalink":"/indexes/js-contents/","title":"DSA Contents","dgEnableSearch":true,"updated":"2025-06-02T15:44:23.619+05:30"}
 ---
 
-Contents related to Data Structures and Algorithms
+Contents related to JavaScript
 <br>
 
 | File                                                                         |
