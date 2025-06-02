@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Artech - Home","tags":["gardenEntry"],"updated":"2025-06-02T15:51:59.956+05:30"}
+{"dg-publish":true,"permalink":"/home/","title":"Artech - Home","tags":["gardenEntry"]}
 ---
 
 # Welcome to Artech Online
@@ -9,7 +9,7 @@ Your one-stop hub for **Software Engineering** insights, programming references,
 
 Whether you're a student, aspiring developer, or experienced engineer, this platform is designed to help you build a strong foundation and stay updated with modern technologies.
 
-[[indexes/Web Contents\|Web Contents]]
+# [[indexes/Web Contents\|Web Contents]]
 
 
 ##  What You’ll Find Here
