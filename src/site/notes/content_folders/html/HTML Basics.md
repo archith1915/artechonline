@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/html/html-basics/"}
+{"dg-publish":true,"permalink":"/content-folders/html/html-basics/","dgShowToc":true}
 ---
 
 

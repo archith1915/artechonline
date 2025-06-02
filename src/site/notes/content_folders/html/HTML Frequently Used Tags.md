@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/html/html-frequently-used-tags/"}
+{"dg-publish":true,"permalink":"/content-folders/html/html-frequently-used-tags/","dgShowToc":true}
 ---
 
 
