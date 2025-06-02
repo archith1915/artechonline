@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/check-for-prime/","dgShowToc":true}
 ---
 
+
 | **Title**     | Check for prime |
 | ------------- | --------------- |
 | **Platform**  | VSCode          |
