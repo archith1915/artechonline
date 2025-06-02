@@ -26,6 +26,8 @@ Whether you're a student, aspiring developer, or experienced engineer, this plat
 
 </h2>
 
+---
+
 #### -> **Programming Language References**
 
 Comprehensive notes and cheat-sheets for:
@@ -89,6 +91,8 @@ Why This Platform?
 
 </h2>
 
+---
+
 We believe learning should be:
 
 - **Accessible:** No paywalls. Just quality content.
@@ -104,11 +108,16 @@ Start Exploring
 
 </h2>
 
+---
+
 > “Software engineering is not about writing code. It’s about solving problems and delivering value.”
 
 - Use the navigation above or search bar to dive into topics you're curious about. New content added regularly!
 
 <br><br><br><br>
+
+---
+
 <center>
 Managed by J A Archith
 </center>
