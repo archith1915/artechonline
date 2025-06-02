@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/html-contents/","title":"DSA Contents","dgEnableSearch":true,"updated":"2025-06-02T15:44:29.469+05:30"}
+{"dg-publish":true,"permalink":"/indexes/html-contents/","title":"DSA Contents","dgEnableSearch":true,"updated":"2025-06-02T15:45:45.756+05:30"}
 ---
 
 Contents related to HTML
