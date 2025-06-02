@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-06-02T14:48:07.707+05:30"}
 ---
 
 # Welcome to Artech Online
@@ -8,7 +8,10 @@ Your one-stop hub for **Software Engineering** insights, programming references,
 
 Whether you're a student, aspiring developer, or experienced engineer, this platform is designed to help you build a strong foundation and stay updated with modern technologies.
 
+<br>
+<center>[[Contents \| Browse Contents]]</center>
 
+<br><br>
 
 ##  What You’ll Find Here
 
@@ -21,7 +24,8 @@ Comprehensive notes and cheat-sheets for:
 - Syntax guides, core concepts, tips, and best practices
     
 - Code examples with real-world use cases
-    
+
+<br><br>
 
 #### 🔹 **DSA Problems & Solutions**
 
@@ -33,6 +37,8 @@ Comprehensive notes and cheat-sheets for:
     
 - Inspired by platforms like Leetcode, GeeksforGeeks, and Codeforces
 
+<br><br>
+
 #### 🔹 **Technology & Frameworks**
 
 - Tutorials on tools and frameworks like Git, Docker, REST APIs, React, Django, etc.
@@ -40,6 +46,10 @@ Comprehensive notes and cheat-sheets for:
 - DevOps basics, cloud computing concepts, and project deployment guides
     
 - Real-world use cases and beginner-friendly walkthroughs
+
+<br><br>
+
+
 #### 🔹 **Project-Based Learning**
 
 - Sample mini-projects with complete source code
@@ -57,7 +67,7 @@ Comprehensive notes and cheat-sheets for:
 - MCQs, short notes, and quick revision material
 
 
-
+<br><br>
 
 ##  🚀 Why This Platform?
 
@@ -70,7 +80,7 @@ We believe learning should be:
 - **Organized:** Clean categories and search to save your time.
 
 
-
+<br><br>
 
 ### 🧠 Start Exploring
 
@@ -78,6 +88,6 @@ We believe learning should be:
 
 🔍 Use the navigation above or search bar to dive into topics you're curious about. New content added regularly!
 
-
+<br><br><br><br>
 > Managed by J A Archith
 
