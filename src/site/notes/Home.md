@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Artech - Home","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Artech - Home","tags":["gardenEntry"],"dgEnableSearch":true}
 ---
 
 # Welcome to Artech Online
