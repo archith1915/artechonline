@@ -10,7 +10,7 @@ Your one-stop hub for **Software Engineering** insights, programming references,
 Whether you're a student, aspiring developer, or experienced engineer, this platform is designed to help you build a strong foundation and stay updated with modern technologies.
 
 <br>
-[[contents\|Browse contents]]
+[[indexes/contents\|Browse contents]]
 
 <br><br>
 
