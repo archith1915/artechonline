@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-06-02T15:13:09.604+05:30"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-06-02T15:17:32.102+05:30"}
 ---
 
 # Welcome to Artech Online
