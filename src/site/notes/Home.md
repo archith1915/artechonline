@@ -96,10 +96,7 @@ We believe learning should be:
     
 - **Organized:** Clean categories and search to save your time.
 
-
-
 <br><br>
-
 <h2 align="center">
 
 Start Exploring
@@ -120,8 +117,3 @@ Managed by J A Archith
 
 
 
-```button
-name PDF
-type command
-action Export to PDF...
-```
