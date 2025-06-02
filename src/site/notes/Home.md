@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Artech - Home","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/home/","title":"Artech - Home","tags":["gardenEntry"],"dgEnableSearch":true}
 ---
 
 <h1 align="center">
