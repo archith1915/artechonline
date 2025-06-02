@@ -113,4 +113,4 @@ Read the execution section here : [[content_folders/dsa/basic_math/Number of dig
 
 # Time complexity
 
-The time complexity for the above code is $ O( log_{10} (N) ) $ since the number is divided by 10 in each iteration. Further explanation provided in [[content_folders/dsa/time_complexity/TC - Basics\|TC - Basics]] file.
+The time complexity for the above code is $O( log_{10} (N) )$ since the number is divided by 10 in each iteration. Further explanation provided in [[content_folders/dsa/time_complexity/TC - Basics\|TC - Basics]] file.

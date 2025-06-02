@@ -95,4 +95,4 @@ int main()
 
 # Time complexity
 
-The time complexity of this algorithm is $ O( \sqrt(N) ) $ while the complexity for the brute force method is $ O( log_{10} (N)) $
+The time complexity of this algorithm is $O( \sqrt(N) )$ while the complexity for the brute force method is $ O( log_{10} (N)) $

@@ -103,4 +103,4 @@ Read the execution section here: [[content_folders/dsa/basic_math/All divisors o
 
 # Time complexity
 
-The time complexity of this algorithm is $ O( \sqrt(N) ) $ while the complexity for the brute force method is $ O( log_{10} (N)) $
+The time complexity of this algorithm is $O( \sqrt(N) )$ while the complexity for the brute force method is $ O( log_{10} (N)) $
