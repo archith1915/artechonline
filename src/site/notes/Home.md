@@ -9,9 +9,13 @@ Your one-stop hub for **Software Engineering** insights, programming references,
 
 Whether you're a student, aspiring developer, or experienced engineer, this platform is designed to help you build a strong foundation and stay updated with modern technologies.
 
-# [[indexes/Web Contents\|Web Contents]]
+
+---
+
+## [[indexes/Web Contents\|Browse Contents]]
 
 
+---
 
 ##  What You’ll Find Here
 
