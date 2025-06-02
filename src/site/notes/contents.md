@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/","dgEnableSearch":true,"updated":"2025-06-02T15:13:17.777+05:30"}
+{"dg-publish":true,"permalink":"/contents/","updated":"2025-06-02T15:14:05.859+05:30"}
 ---
 
 Hello this is a test page
