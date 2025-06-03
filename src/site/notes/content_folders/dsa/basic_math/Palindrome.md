@@ -80,7 +80,7 @@ int main()
 
 Refer to the execution section in [[content_folders/dsa/basic_math/Reverse a number\|Reverse a number]] :
 
-[[content_folders/dsa/basic_math/Reverse a number#^391cc8\|Execution of reversing a number algorithm]]
+[[content_folders/dsa/basic_math/Reverse a number#Execution\|Execution of reversing a number algorithm]]
 
 Once all the iterations are completed, an if condition compares the reverse number with the duplicate variable to check if it is a palindrome.
 
