@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/reverse-a-number/","dgShowToc":true}
 ---
 
-| **Title**     | Reverse a number                        |
-| ------------- | --------------------------------------- |
-| **Platform**  | LeetCode, Coding Ninjas, VSCode         |
-| **Reference** | Strivers                                |
-| **Tags**      | #dsa #math #vsc #leetcode #codingninjas |
+| **Title**     | Reverse a number                                             |
+| ------------- | ------------------------------------------------------------ |
+| **Platform**  | LeetCode, Coding Ninjas, VSCode                              |
+| **Reference** | Strivers                                                     |
+| **Tags**      | #dsa #math #vsc #leetcode #codingninjas #strivers #cplusplus |
 # Concept
 
 #### Objective: 

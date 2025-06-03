@@ -2,16 +2,6 @@
 {"dg-publish":true,"permalink":"/content-folders/javascript/java-script-from-zero/","dgShowToc":true}
 ---
 
-# Index
-
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-debugInConsole: false # Print debug info in Obsidian console
-```
 
 1. Use console.log() to print something on to the console
 

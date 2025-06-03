@@ -20,6 +20,7 @@ Whether you're a student, aspiring developer, or experienced engineer, this plat
 
 
 ---
+ <br>
  <h2 align="center">
  
  What You’ll Find Here
@@ -27,6 +28,7 @@ Whether you're a student, aspiring developer, or experienced engineer, this plat
 </h2>
 
 ---
+<br>
 
 #### -> **Programming Language References**
 

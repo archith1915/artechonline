@@ -3,11 +3,11 @@
 ---
 
 
-| **Title**     | Check for prime |
-| ------------- | --------------- |
-| **Platform**  | VSCode          |
-| **Reference** | Strivers        |
-| **Tags**      | #dsa #vsc #math |
+| **Title**     | Check for prime                      |
+| ------------- | ------------------------------------ |
+| **Platform**  | VSCode                               |
+| **Reference** | Strivers                             |
+| **Tags**      | #dsa #vsc #math #strivers #cplusplus |
 # Concept
 
 #### Objective: 

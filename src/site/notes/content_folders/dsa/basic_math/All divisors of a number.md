@@ -3,11 +3,11 @@
 ---
 
 
-| **Title**     | All divisors of a number      |
-| ------------- | ----------------------------- |
-| **Platform**  | VSCode, Coding Ninjas         |
-| **Reference** | Strivers                      |
-| **Tags**      | #dsa #codingninjas #vsc #math |
+| **Title**     | All divisors of a number                           |
+| ------------- | -------------------------------------------------- |
+| **Platform**  | VSCode, Coding Ninjas                              |
+| **Reference** | Strivers                                           |
+| **Tags**      | #dsa #codingninjas #vsc #math #strivers #cplusplus |
 # Concept
 
 #### Objective: 
@@ -23,7 +23,7 @@ Assume that the number given is 36. The divisors are:
 - 2 x 18
 - 3 x 12
 - 4 x 9
-- 6 x 6
+- ***6 x 6***
 - 9 x 4
 - 12 x 3
 - 18 x 2

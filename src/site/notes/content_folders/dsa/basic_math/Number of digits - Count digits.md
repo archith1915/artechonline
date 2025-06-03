@@ -3,11 +3,11 @@
 ---
 
 
-| **Title**     | Number of digits              |
-| ------------- | ----------------------------- |
-| **Platform**  | Coding Ninjas, VSCode         |
-| **Reference** | Strivers                      |
-| **Tags**      | #dsa #math #vsc #codingninjas |
+| **Title**     | Number of digits                                   |
+| ------------- | -------------------------------------------------- |
+| **Platform**  | Coding Ninjas, VSCode                              |
+| **Reference** | Strivers                                           |
+| **Tags**      | #dsa #math #vsc #codingninjas #strivers #cplusplus |
 # Concept
 
 ### Objective: 

@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/armstrong-numbers/","dgShowToc":true}
 ---
 
-| **Title**     | Armstsrong numbers            |
-| ------------- | ----------------------------- |
-| **Platform**  | VSCode, Coding Ninjas         |
-| **Reference** | Strivers                      |
-| **Tags**      | #dsa #codingninjas #vsc #math |
+| **Title**     | Armstsrong numbers                                 |
+| ------------- | -------------------------------------------------- |
+| **Platform**  | VSCode, Coding Ninjas                              |
+| **Reference** | Strivers                                           |
+| **Tags**      | #dsa #codingninjas #vsc #math #strivers #cplusplus |
 # Concept
 
 #### Objective: 

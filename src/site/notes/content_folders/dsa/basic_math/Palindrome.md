@@ -3,11 +3,11 @@
 ---
 
 
-| **Title**     | Palindrome                |
-| ------------- | ------------------------- |
-| **Platform**  | VSCode, LeetCode          |
-| **Reference** | Strivers                  |
-| **Tags**      | #dsa #math #leetcode #vsc |
+| **Title**     | Palindrome                                     |
+| ------------- | ---------------------------------------------- |
+| **Platform**  | VSCode, LeetCode                               |
+| **Reference** | Strivers                                       |
+| **Tags**      | #dsa #math #leetcode #vsc #strivers #cplusplus |
 # Concept
 
 #### Objective: 
