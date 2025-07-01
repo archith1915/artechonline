@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -13,7 +15,8 @@ body {
 }
 
 code[class*='language-'], pre[class*='language-'] {
-  font-family: var(--font-default) !important;
+  font-family: 'Fira Code', 'JetBrains Mono', 'Source Code Pro', Menlo, Monaco, Consolas, 'Courier New', monospace;
   text-shadow: none !important;
   -webkit-text-stroke: 0 !important;
+    
 }
