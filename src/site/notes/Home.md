@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Artech - Home","tags":["gardenEntry"],"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/home/","title":"Artec - Home","tags":["gardenEntry"],"dgEnableSearch":true}
 ---
 
 
 <h1 align="center">
 
-Welcome to Artech Online
+Welcome to Artec Online
 
 </h1>
 
