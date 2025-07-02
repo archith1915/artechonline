@@ -5,7 +5,7 @@
 
 <h1 align="center">
 
-Welcome to Artec Online
+Welcome to Archith's Online Archive
 
 </h1>
 
