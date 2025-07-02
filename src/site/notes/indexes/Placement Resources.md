@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/placement-resources/","title":"ML Contents","dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/indexes/placement-resources/","title":"Placement Resources","dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 Resources for placement preparation

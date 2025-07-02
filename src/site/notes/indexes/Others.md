@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/others/","title":"JS Contents","dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/indexes/others/","title":"Other references","dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 Other reference materials
