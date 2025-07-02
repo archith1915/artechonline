@@ -5,10 +5,10 @@
 Contents related to JavaScript
 <br>
 
-| Topics                                                                       |
-| ---------------------------------------------------------------------------- |
-| [[content_folders/javascript/JavaScript from zero\|JavaScript from zero]] |
-| [[content_folders/javascript/Windows Object\|Windows Object]]             |
+| Topics                                                                              |
+| ----------------------------------------------------------------------------------- |
+| [[static/content_folders/javascript/JavaScript from zero\|JavaScript from zero]] |
+| [[static/content_folders/javascript/Windows Object\|Windows Object]]             |
 
 { .block-language-dataview}
 
