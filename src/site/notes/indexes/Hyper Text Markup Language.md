@@ -5,7 +5,9 @@
 Contents related to HTML
 <br>
 
-| Topics |
-| ------ |
+| Topics                                                                           |
+| -------------------------------------------------------------------------------- |
+| [[content_folders/html/HTML Basics\|HTML Basics]]                             |
+| [[content_folders/html/HTML Frequently Used Tags\|HTML Frequently Used Tags]] |
 
 { .block-language-dataview}
