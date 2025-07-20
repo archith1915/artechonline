@@ -6,6 +6,7 @@ Browse through the site's content here:
 <br>
 | Categories                                                                |
 | ------------------------------------------------------------------------- |
+| [[indexes/Core Subjects\|Core Subjects]]                               |
 | [[indexes/Data Structures & Algorithms\|Data Structures & Algorithms]] |
 | [[indexes/Hyper Text Markup Language\|Hyper Text Markup Language]]     |
 | [[indexes/JavaScript\|JavaScript]]                                     |
