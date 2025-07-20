@@ -13,8 +13,11 @@ This arrangement determines how data flows, how easily networks can expand o
 
 #  Types of Topology
 ---
-## Bus topology:
+## Illustration
 
+![Topologies.png](/img/user/assets/Topologies.png)
+
+## Bus topology:
 ### Description
 
 All devices are connected to a single central cable (bus). Each device communicates over this shared medium.
@@ -140,29 +143,29 @@ A combination of two or more different topologies, such as star-bus or star-ring
 
 ## Basic Understanding
 
- 1. What is a network topology?
+ 1. **What is a network topology?**
 
-A network topology is the arrangement of different network devices and how they are interconnected, determining the layout and data flow of a network. It influences network performance, scalability, maintenance, and fault tolerance.
+	A network topology is the arrangement of different network devices and how they are interconnected, determining the layout and data flow of a network. It influences network performance, scalability, maintenance, and fault tolerance.
 
-2. How many types of network topologies are there, and what are they called?
+2. **How many types of network topologies are there, and what are they called?**
 
-There are several types of network topologies, including:
+	There are several types of network topologies, including:
+	
+	- Bus
+	- Star
+	- Ring
+	- Mesh
+	- Tree
+	- Hybrid
 
-- Bus
-- Star
-- Ring
-- Mesh
-- Tree
-- Hybrid
+3. **What is the difference between physical and logical topology?**
 
-3. What is the difference between physical and logical topology?
-
-- **Physical topology** describes the actual physical layout of devices, cables, and hardware.
-- **Logical topology** refers to the way data moves through the network, which might differ from its physical arrangement.
+	- **Physical topology** describes the actual physical layout of devices, cables, and hardware.
+	- **Logical topology** refers to the way data moves through the network, which might differ from its physical arrangement.
 
 ## Topology-Specific Questions
 
-1. What is a Bus Topology? What are its main advantages and disadvantages?
+1. **What is a Bus Topology? What are its main advantages and disadvantages?**
 
 	In bus topology, all devices are connected to a single central cable.  
 	**Advantages:**
@@ -176,19 +179,19 @@ There are several types of network topologies, including:
 	- Difficult to troubleshoot
 	- Limited scalability and high collision risk
 
-2. Explain Star Topology. How does it handle network failures?
+2. **Explain Star Topology. How does it handle network failures?**
 
 	In star topology, every device connects to a central hub or switch.  
 	**Failure Handling:** If a device or its cable fails, only that device is affected. However, if the central hub fails, the entire network is disrupted.
 
-3. What are the characteristics and pros/cons of Ring Topology?
+3. **What are the characteristics and pros/cons of Ring Topology?**
 
 	- Devices connect in a closed loop.
 	- Data flows in one direction (or both, in dual rings).  
 	    **Pros:** Predictable data flow, easy fault identification  
 	    **Cons:** One failure can disrupt the whole network, and adding/removing devices is disruptive
 
-4. Describe Mesh Topology. What is the difference between full and partial mesh?
+4. **Describe Mesh Topology. What is the difference between full and partial mesh?**
 
 	In mesh topology, every device connects directly to every other device.
 	
@@ -197,19 +200,19 @@ There are several types of network topologies, including:
 	    **Advantage:** High fault tolerance  
 	    **Disadvantage:** Complex and costly to implement
 
-5. Explain Tree Topology. In which situations is it preferred?
+5. **Explain Tree Topology. In which situations is it preferred?**
 
 	Tree topology is hierarchical, combining star and bus topologies.  
 	**Preferred in:** Large organizations with departments, as it allows for easy expansion and fault isolation at branch levels.
 
-6. What is a Hybrid Topology? What benefits does it provide over other topologies?
+6. **What is a Hybrid Topology? What benefits does it provide over other topologies?**
 
 	Hybrid topology is a combination of two or more topologies (e.g., star-bus).  
 	**Benefits:** Inherits advantages of the combined topologies and can be tailored to specific requirements, improving flexibility and scalability.
 
 ## Practical Application & Comparison
 
-1. In which scenarios would you recommend each topology (bus, star, ring, mesh, tree, hybrid)?
+1. **In which scenarios would you recommend each topology (bus, star, ring, mesh, tree, hybrid)?**
 
 	- **Bus:** Small, cost-sensitive LANs
 	- **Star:** Office networks, easy management and troubleshooting
@@ -218,60 +221,60 @@ There are several types of network topologies, including:
 	- **Tree:** Large, structured organizations
 	- **Hybrid:** Large enterprises needing customized solutions
 
-2. How do you decide the best topology for a specific environment?
+2. **How do you decide the best topology for a specific environment?**
 
 	Consider factors such as network size, required scalability, fault tolerance, budget, and maintenance. The optimal topology balances these needs for the particular scenario.
 
-3. Compare the scalability and fault tolerance among star, bus, and mesh topologies.
+3. **Compare the scalability and fault tolerance among star, bus, and mesh topologies.**
 
 	- **Star:** Good scalability, moderate fault tolerance (central hub is critical point)
 	- **Bus:** Poor scalability and fault tolerance (main cable failure affects all)
 	- **Mesh:** Excellent fault tolerance and scalability but at a high cost
 
-4. How does topology affect network performance and cost?
+4. **How does topology affect network performance and cost?**
 
 	Star and mesh topologies offer better performance and fault tolerance but are costlier. Bus is inexpensive but struggles with performance and reliability as size grows.
 
-5. What kind of topology is used to minimize network traffic and why?
+5. **What kind of topology is used to minimize network traffic and why?**
 
 	Mesh topology minimizes traffic by providing direct communication paths; data doesn't traverse unnecessary devices, reducing congestion.
 
 ## Design & Maintenance
 
-1. How many ports and cables are required for a star topology with ‘n’ devices?
+1. **How many ports and cables are required for a star topology with ‘n’ devices?**
 	
 	- **Ports:** n ports on the central hub/switch (one per device)
 	- **Cables:** n cables (each device connects to the hub)
 
-2. How does star topology isolate faults compared to bus and ring topologies?
+2. **How does star topology isolate faults compared to bus and ring topologies?**
 
 	In a star, a device or cable failure affects only that device, making it easy to isolate and fix. In bus or ring, a single point of failure can bring down the entire network, making fault isolation harder.
 
-3. How does adding or removing nodes affect different topologies?
+3. **How does adding or removing nodes affect different topologies?**
 	
 	- **Star:** Easy to add/remove devices without disturbing others
 	- **Bus/Ring:** Adding/removing can disrupt the network and requires downtime
 
-4. What are common challenges in expanding or troubleshooting a bus or ring topology network?
+4. **What are common challenges in expanding or troubleshooting a bus or ring topology network?**
 
 	- **Bus**: Troubleshooting cable faults can be difficult; expansion increases chances of collisions
 	- **Ring**: Removing or adding nodes requires breaking the ring, causing downtime
 
 ## Advanced & Scenario-Based Questions
 
-1. How would you upgrade a bus topology to improve fault tolerance?
+1. **How would you upgrade a bus topology to improve fault tolerance?**
 
 	Convert it to a star or mesh topology by adding a central hub or multiple interconnections, thus eliminating the single point of failure.
 
-2. What impact does hybrid topology have on network design and complexity?
+2. **What impact does hybrid topology have on network design and complexity?**
 
 	Hybrid topologies allow customization for specific needs but greatly increase design and maintenance complexity.
 
-3. Which topology would you use in a large enterprise network for high availability and why?
+3. **Which topology would you use in a large enterprise network for high availability and why?**
 
 	Mesh or hybrid topologies are preferred due to their high resilience, redundancy, and ability to support mission-critical operations without single points of failure.
 
-4. How does data transmission differ in ring versus mesh topology?
+4. **How does data transmission differ in ring versus mesh topology?**
 
 	- **Ring:** Data travels through nodes sequentially, which can introduce latency.
 	- **Mesh:** Data takes the shortest, most efficient path between devices, improving speed and reliability.

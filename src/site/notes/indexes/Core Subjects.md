@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/core-subjects/","title":"Core Subjects","tags":["coreSubjects"]}
+{"dg-publish":true,"permalink":"/indexes/core-subjects/","title":"Core Subjects","tags":["coreSubjects"],"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 Reference materials and notes for core subjects
