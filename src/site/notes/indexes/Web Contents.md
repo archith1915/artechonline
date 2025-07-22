@@ -11,7 +11,7 @@ Browse through the site's content here:
 | [[indexes/Hyper Text Markup Language\|Hyper Text Markup Language]]     |
 | [[indexes/JavaScript\|JavaScript]]                                     |
 | [[indexes/Machine Learning\|Machine Learning]]                         |
-| [[indexes/Others\|Others]]                                             |
+| [[indexes/Other Resources\|Other Resources]]                           |
 | [[indexes/Placement Resources\|Placement Resources]]                   |
 
 { .block-language-dataview}
