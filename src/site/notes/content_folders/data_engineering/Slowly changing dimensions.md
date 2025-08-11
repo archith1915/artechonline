@@ -39,6 +39,6 @@ SCD 3 stores partial history of the data and the changes made to it. It only sto
 
 # SCD 6
 
-SCD 6 is a combination of [[#SCD 1]], [[#SCD 2]], and [[#SCD 3]]. 
+SCD 6 is a combination of [[content_folders/data_engineering/Slowly changing dimensions#SCD 1\|SCD 1]], [[content_folders/data_engineering/Slowly changing dimensions#SCD 2\|SCD 2]], and [[content_folders/data_engineering/Slowly changing dimensions#SCD 3\|SCD 3]]. 
 
 ![scd6.png](/img/user/assets/data_engineering/scd/scd6.png)

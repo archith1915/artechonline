@@ -64,7 +64,7 @@ let name2 = name.trim() //assigning to a new variable
 
 ## toLowerCase() & toUpperCase() methods
 
-- Similar to [[#trim() method]] discussed above, these methods create a new string and will need to be stored to a variable.
+- Similar to [[content_folders/javascript/JavaScript from zero#trim() method\|trim() method]] discussed above, these methods create a new string and will need to be stored to a variable.
 - Yet, storing or assigning the output of these methods is not mandatory. The output can be directly used in other functions or operations3.
 
 ## slice() method
@@ -323,5 +323,10 @@ for (let i=0; i<=10; i++){
 
 
 ---
-*Created : .*
-*Last Modified : .*
+*Created : *
+*Last Modified : *
+
+
+
+
+
