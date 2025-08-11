@@ -326,9 +326,7 @@ for (let i=0; i<=10; i++){
 *Created :* 
 *Last Modified :* 
 
-No italics for time
-
-
-
+*Created : .*
+*Last Modified : .*
 
 
