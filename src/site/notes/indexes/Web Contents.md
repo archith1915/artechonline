@@ -7,11 +7,13 @@ Browse through the site's content here:
 | Categories                                                                |
 | ------------------------------------------------------------------------- |
 | [[indexes/Core Subjects\|Core Subjects]]                               |
+| [[indexes/Data Engineering\|Data Engineering]]                         |
 | [[indexes/Data Structures & Algorithms\|Data Structures & Algorithms]] |
 | [[indexes/Hyper Text Markup Language\|Hyper Text Markup Language]]     |
 | [[indexes/JavaScript\|JavaScript]]                                     |
 | [[indexes/Machine Learning\|Machine Learning]]                         |
 | [[indexes/Other Resources\|Other Resources]]                           |
 | [[indexes/Placement Resources\|Placement Resources]]                   |
+| [[indexes/Project Ideas\|Project Ideas]]                               |
 
 { .block-language-dataview}
