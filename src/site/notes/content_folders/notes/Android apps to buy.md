@@ -122,3 +122,6 @@
 | Book              | Introducing Windows Server 2012 R2                                     |
 | Book              | How Thinking About Sex Helps You Write Essays                          |
 | Book              | Premarital Sex is Not Logical                                          |
+
+
+# Franco Kernel Manager
