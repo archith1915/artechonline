@@ -4,13 +4,13 @@
 
 The OSI or the Open System Interconnection model is a set of rules that explains how computers communicate over a network. This model consists of 7 layers and each layer has specific functions.
 
-1. [[#Physical Layer]]
-2. [[#Data Link Layer]]
-3. [[#Network Layer]]
-4. [[#Transportation Layer]]
-5. [[#Session Layer]]
-6. [[#Presentation Layer]]
-7. [[#Application Layer]]
+1. [[content_folders/core subjects/cn/OSI Model#Physical Layer\|Physical Layer]]
+2. [[content_folders/core subjects/cn/OSI Model#Data Link Layer\|Data Link Layer]]
+3. [[content_folders/core subjects/cn/OSI Model#Network Layer\|Network Layer]]
+4. [[content_folders/core subjects/cn/OSI Model#Transportation Layer\|Transportation Layer]]
+5. [[content_folders/core subjects/cn/OSI Model#Session Layer\|Session Layer]]
+6. [[content_folders/core subjects/cn/OSI Model#Presentation Layer\|Presentation Layer]]
+7. [[content_folders/core subjects/cn/OSI Model#Application Layer\|Application Layer]]
 
 
 # Physical Layer
@@ -22,7 +22,7 @@ Various [[content_folders/core subjects/cn/Topologies\|topologies]] can be used 
 
 # Data Link Layer
 
-The next layer in the OSI model is the Data Link Layer. This layer is responsible for node-to-node transfer of data. The data is transmitted in packets called Frames. The data link layer is responsible for physical addressing where it assigns MAC addresses to IP packets and transmit them between computers using local media discussed in the [[#Physical Layer|physical layer.]]
+The next layer in the OSI model is the Data Link Layer. This layer is responsible for node-to-node transfer of data. The data is transmitted in packets called Frames. The data link layer is responsible for physical addressing where it assigns MAC addresses to IP packets and transmit them between computers using local media discussed in the [[content_folders/core subjects/cn/OSI Model#Physical Layer\|physical layer.]]
 
 > MAC address can be found on the NIC of the device.
 
@@ -70,5 +70,4 @@ The presentation layer is responsible for three functions. Translation, compress
 # Application Layer
 
 The application layer consists of the applications that use the internet or the network. Web browsers are a classic example for network applications. This layer uses protocols like HTTP, HTTPS, SMTP, FTP etc for data transmission.
-
 
