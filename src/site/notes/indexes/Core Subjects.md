@@ -7,9 +7,9 @@ Reference materials and notes for core subjects
 
 | Computer Networks                                              |
 | -------------------------------------------------------------- |
+| [[content_folders/core subjects/cn/Basics\|Basics]]         |
 | [[content_folders/core subjects/cn/OSI Model\|OSI Model]]   |
 | [[content_folders/core subjects/cn/Topologies\|Topologies]] |
-| [[content_folders/core subjects/cn/Untitled\|Untitled]]     |
 
 { .block-language-dataview}
 

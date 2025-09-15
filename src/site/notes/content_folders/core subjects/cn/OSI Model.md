@@ -38,7 +38,7 @@ The network layer is responsible for transmitting data from one network to anoth
 
 # Transportation Layer
 
-The functions of the transportation layer consists of segmentation, flow control and error control. 
+The functions of the transportation layer consists of segmentation, flow control and error control.
 
 Segmentation is the process if dividing the data packets received into small segments each assigned with source and destination port numbers and a sequence number. The port numbers guide the segments to the right node and process while the sequence number help put the packets together in the right order at the destination.
 
