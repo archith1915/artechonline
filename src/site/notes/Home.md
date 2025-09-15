@@ -9,7 +9,7 @@ Welcome to Archith's Online Archive
 
 </h1>
 
-Archith's atlas for **Software Engineering** references, programming references, and **DSA** problem solutions.
+Archith's personal atlas for **Software Engineering** references, **Programming** references, and **DSA** problem solutions.
 
 
 ---
@@ -26,14 +26,14 @@ Archith's atlas for **Software Engineering** references, programming references,
 </h2>
 
 ---
-#### -> **Programming Language References**
-#### -> **DSA Problems & Solutions**
+#### -> *Programming Language References*
+#### -> *DSA Problems & Solutions*
 
-#### -> **Technology & Frameworks**
+#### -> *Technology & Frameworks*
 
-#### -> **Project-Based Learning**
+#### -> *Project-Based Learning*
 
-#### -> **Exam & Interview Prep**
+#### -> *Exam & Interview Prep*
 
 and a lot more (Still in development).
 
