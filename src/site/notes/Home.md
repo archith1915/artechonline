@@ -26,8 +26,6 @@ Archith's atlas for **Software Engineering** references, programming references,
 </h2>
 
 ---
-<br>
-
 #### -> **Programming Language References**
 #### -> **DSA Problems & Solutions**
 
