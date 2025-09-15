@@ -26,16 +26,17 @@ Archith's personal atlas for **Software Engineering** references, **Programming*
 </h2>
 
 ---
-#### -> *Programming Language References*
-#### -> *DSA Problems & Solutions*
+-> *Programming Language References*
 
-#### -> *Technology & Frameworks*
+-> *DSA Problems & Solutions*
 
-#### -> *Project-Based Learning*
+-> *Technology & Frameworks*
 
-#### -> *Exam & Interview Prep*
+-> *Project-Based Learning*
 
-and a lot more (Still in development).
+ -> *Exam & Interview Prep*
+
+and a lot more (still in development).
 
 
 ---
