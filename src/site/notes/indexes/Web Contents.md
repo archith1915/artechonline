@@ -9,6 +9,7 @@ Browse through the site's content here:
 | [[indexes/Core Subjects\|Core Subjects]]                               |
 | [[indexes/Data Engineering\|Data Engineering]]                         |
 | [[indexes/Data Structures & Algorithms\|Data Structures & Algorithms]] |
+| [[indexes/DevOps\|DevOps]]                                             |
 | [[indexes/Hyper Text Markup Language\|Hyper Text Markup Language]]     |
 | [[indexes/JavaScript\|JavaScript]]                                     |
 | [[indexes/Machine Learning\|Machine Learning]]                         |
