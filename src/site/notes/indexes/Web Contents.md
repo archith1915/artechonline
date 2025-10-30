@@ -11,6 +11,7 @@ Browse through the site's content here:
 | [[indexes/Data Structures & Algorithms\|Data Structures & Algorithms]] |
 | [[indexes/DevOps\|DevOps]]                                             |
 | [[indexes/Hyper Text Markup Language\|Hyper Text Markup Language]]     |
+| [[indexes/Java for DSA\|Java for DSA]]                                 |
 | [[indexes/JavaScript\|JavaScript]]                                     |
 | [[indexes/Machine Learning\|Machine Learning]]                         |
 | [[indexes/Stock Market\|Stock Market]]                                 |

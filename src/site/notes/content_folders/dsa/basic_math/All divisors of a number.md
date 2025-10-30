@@ -36,6 +36,10 @@ In the cycle above, it can be seen that all the combinations after 6 x 6, the sq
 # Code
 
 ```c++
+
+// C Plus Plus
+
+
 #include <iostream>
 
 #include <cmath>
@@ -87,7 +91,69 @@ int main()
 }
 ```
 
+```java
 
+//Java
+
+import java.util.ArrayList;
+
+import java.util.Scanner;
+
+import java.lang.Math.*;
+
+import java.util.Collections;
+
+  
+
+public class FactorsList {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a number: ");
+
+        int n = sc.nextInt();
+
+  
+
+        ArrayList<Integer> factors = new ArrayList<>();
+
+  
+
+        for (int i = 1; i <= Math.sqrt(n); i++) {
+
+            if (n % i == 0) {
+
+                factors.add(i);
+
+                if (i != n / i) {
+
+                    factors.add(n / i);
+
+                }
+
+            }
+
+        }
+
+  
+
+        Collections.sort(factors);
+
+  
+
+        System.out.println("Factors: " + factors);
+
+        sc.close();
+
+    }
+
+  
+
+}
+
+```
 #### Execution:
 
 - The for loop runs from 1 all the way till the square root of the given number. Note that the loop cannot start from zero (division by zero error). 

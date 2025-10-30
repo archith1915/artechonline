@@ -4,7 +4,6 @@
 
 Contents related to Data Structures and Algorithms
 <br>
-
 | Basic Math Problems                                                                                    |
 | ------------------------------------------------------------------------------------------------------ |
 | [[content_folders/dsa/basic_math/All divisors of a number\|All divisors of a number]]               |
@@ -22,4 +21,16 @@ Contents related to Data Structures and Algorithms
 
 { .block-language-dataview}
 
+
+| Recursion |
+| --------- |
+
+{ .block-language-dataview}
+
+| Blind 75                                                                  |
+| ------------------------------------------------------------------------- |
+| [[content_folders/dsa/blind75/Contains Duplicate\|Contains Duplicate]] |
+| [[content_folders/dsa/blind75/Two Sum\|Two Sum]]                       |
+
+{ .block-language-dataview}
 
