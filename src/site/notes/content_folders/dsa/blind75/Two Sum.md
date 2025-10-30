@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/blind75/two-sum/","title":"Two Sum","tags":["dsa","leetcode","blind75","strivers"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/blind75/two-sum/","title":"Two Sum","tags":["dsa","leetcode","blind75","strivers","level-medium"],"dgShowToc":true}
 ---
+
 
 The objective in two sum problem is to find two numbers, say *x* and *y*, in a given array 'arr' such that x and y add up to a given target number *z*. While the simplest approach to this problem is brute force using two loops to check for the sum, it's time complexity happens to be on the higher side.
 

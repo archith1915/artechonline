@@ -5,8 +5,9 @@
 Contents related to Java for DSA
 <br>
 
-| Topics                                                         |
-| -------------------------------------------------------------- |
-| [[content_folders/dsa/javafordsa/Collections\|Collections]] |
+| Topics                                                     |
+| ---------------------------------------------------------- |
+| [[content_folders/javafordsa/Collections\|Collections]] |
+| [[content_folders/javafordsa/Strings\|Strings]]         |
 
 { .block-language-dataview}
