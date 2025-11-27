@@ -35,3 +35,17 @@ Contents related to Data Structures and Algorithms
 
 { .block-language-dataview}
 
+| Sorting                                                           |
+| ----------------------------------------------------------------- |
+| [[content_folders/dsa/sorting/Bubble Sort\|Bubble Sort]]       |
+| [[content_folders/dsa/sorting/Insertion Sort\|Insertion Sort]] |
+| [[content_folders/dsa/sorting/Selection Sort\|Selection Sort]] |
+
+{ .block-language-dataview}
+
+| Arrays                                                                                                   |
+| -------------------------------------------------------------------------------------------------------- |
+| [[content_folders/dsa/arrays/Largest element in an array\|Largest element in an array]]               |
+| [[content_folders/dsa/arrays/Second Largest element in an array\|Second Largest element in an array]] |
+
+{ .block-language-dataview}
