@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/blind75/two-sum/","title":"Two Sum","tags":["dsa","leetcode","blind75","strivers","level-medium"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/arrays/largest-element-in-an-array/","title":"Two Sum","tags":["dsa","leetcode","blind75","strivers","level-medium"],"dgShowToc":true}
 ---
 
 
@@ -18,68 +18,34 @@ An alternate approach with a better time complexity is to solve it using hashmap
 **Implementation**
 
 ```java
-import java.util.HashMap;
+static int largestElement(int[] arr, int n) {
 
-import java.util.Arrays;
+        Arrays.sort(arr);
 
-  
-
-public class twoSum {
-
-    public static int[] findTwoSum(int[] arr, int target) {
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < arr.length; i++) {
-
-            int complement = target - arr[i];
+        return arr[n-1];
 
   
 
-            if (map.containsKey(complement)) {
+    }
+    
+    //OR - FIRST PASS ALGORITHM
+    
+     static int largestElement(int[] arr, int n) {
 
-                return new int[] { map.get(complement), i };
+        int largest = arr[0];
 
-            } else {
+        for(int i=0; i<=n-1; i++){
 
-                map.put(arr[i], i);
+            if(arr[i]>largest){
 
-            }
+                largest = arr[i];
 
-  
+            }
 
-        }
+        }
 
-        return new int[] { -1, -1 };
-
-    }
-
-  
-    public static void main(String[] args) {
-
-        int arr[] = { 3, 15, 6, 18, 66, 14, 1 };
-
-        int target = 19;
-
-  
-
-        int result[] = findTwoSum(arr, target);
-
-  
-
-        if (result[0] == -1) {
-
-            System.out.println("No pairs found");
-
-        } else {
-
-            System.out.println(Arrays.toString(result));
-
-        }
-
-    }
-
-}
+        return largest;
+    }
 
 ```
 

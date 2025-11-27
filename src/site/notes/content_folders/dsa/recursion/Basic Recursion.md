@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/reverse-a-number/","title":"Reverse a number","dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/recursion/basic-recursion/","title":"Basic Recursion","dgShowToc":true}
 ---
 
-| **Title**     | Reverse a number                                             |
+| **Title**     | Basic Recursion                                              |
 | ------------- | ------------------------------------------------------------ |
 | **Platform**  | LeetCode, Coding Ninjas, VSCode                              |
 | **Reference** | Strivers                                                     |
@@ -15,7 +15,7 @@ The objective of this problem is to reverse a given number. Say 1234.
 
 ### Solution:
 
-We solve this using the digit extraction approach used in [[content_folders/dsa/basic_math/Number of digits - Count digits\|Number of digits - Count digits]] problem. The digits are extracted one by one and then added to a new variable. The reverser number variable is multiplied by 10 and the last digit obtained by the modulus operation is added to it.
+We solve this using the digit extraction approach used in [[content_folders/dsa/basic_math/Number of digits - Count digits\|Number of digits - Count digits]] problem. The digits are extracted one by one and then added to a new variable. The reversed number variable is multiplied by 10 and the last digit obtained by the modulus operation is added to it.
 
 # Code
 

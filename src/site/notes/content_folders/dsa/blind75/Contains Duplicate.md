@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/content-folders/dsa/blind75/contains-duplicate/","title":"Contains Duplicate","tags":["blind75","leetcode","level-easy"]}
 ---
 
+
+| **Title**     | Contains Duplicate                          |
+| ------------- | ------------------------------------------- |
+| **Platform**  | VSCode, LeetCode                            |
+| **Reference** | Strivers                                    |
+| **Tags**      | #dsa #array #leetcode #vsc #strivers #java  |
+
+---
+
+
 The objective is to find whether an array contains duplicate elements. The optimal approach uses a hashset to remove duplicates from an array. The size of the array and hashset are compared to conclude 
 
 ```java

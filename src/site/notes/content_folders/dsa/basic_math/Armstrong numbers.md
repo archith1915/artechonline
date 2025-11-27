@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/armstrong-numbers/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/armstrong-numbers/","title":"Armstrong numbers","dgShowToc":true}
 ---
 
 | **Title**     | Armstsrong numbers                                 |

@@ -22,8 +22,9 @@ Contents related to Data Structures and Algorithms
 { .block-language-dataview}
 
 
-| Recursion |
-| --------- |
+| Recursion                                                             |
+| --------------------------------------------------------------------- |
+| [[content_folders/dsa/recursion/Basic Recursion\|Basic Recursion]] |
 
 { .block-language-dataview}
 

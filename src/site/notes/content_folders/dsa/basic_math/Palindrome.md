@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/palindrome/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/content-folders/dsa/basic-math/palindrome/","title":"Palindrome","dgShowToc":true}
 ---
 
 
