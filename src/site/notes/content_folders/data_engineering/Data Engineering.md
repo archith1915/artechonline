@@ -61,4 +61,5 @@ Batch data is ingested either on a predetermined time interval or as the data re
 
 The next stage of the data engineering lifecycle is transformation, meaning data needs to be changed from its original form into something useful for downstream use cases. Without proper transformations, data will sit inert, and not be in a useful form for reports, analysis, or ML.
 
+GAGANDEEP
 
