@@ -21,7 +21,6 @@ Archith's Online Archive
 
 - Use the search bar to navigate and dive into topics you're curious about.
 
-<br>
 
 ---
 
