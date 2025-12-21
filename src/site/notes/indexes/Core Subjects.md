@@ -15,8 +15,10 @@ Reference materials and notes for core subjects
 
 | Big Data Analytics                                                                      |
 | --------------------------------------------------------------------------------------- |
+| [[content_folders/core subjects/bda/Matrix Multiplication\|Matrix Multiplication]]   |
 | [[content_folders/core subjects/bda/Module 1 and Anatomies\|Module 1 and Anatomies]] |
 | [[content_folders/core subjects/bda/Page Ranking\|Page Ranking]]                     |
+| [[content_folders/core subjects/bda/Word Count\|Word Count]]                         |
 
 { .block-language-dataview}
 
