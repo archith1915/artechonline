@@ -13,6 +13,13 @@ Reference materials and notes for core subjects
 
 { .block-language-dataview}
 
+| Big Data Analytics                                                                      |
+| --------------------------------------------------------------------------------------- |
+| [[content_folders/core subjects/bda/Module 1 and Anatomies\|Module 1 and Anatomies]] |
+| [[content_folders/core subjects/bda/Page Ranking\|Page Ranking]]                     |
+
+{ .block-language-dataview}
+
 | Operating Systems |
 | ----------------- |
 
