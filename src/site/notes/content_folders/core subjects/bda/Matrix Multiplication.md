@@ -42,7 +42,7 @@ public class MatrixMultiplyMapper extends Mapper<LongWritable, Text, Text, Text>
 }
 ```
 
-> [!info] **P** is the number of **columns** in **B** while **M** is the number of **rows** in A
+> [!info] **P** is the number of **columns** in **B** and **M** is the number of **rows** in A
 
 # MatrixMultiplyReducer.java
 
