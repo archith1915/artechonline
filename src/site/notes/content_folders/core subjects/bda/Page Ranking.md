@@ -224,7 +224,7 @@ Before PageRank, other metrics were studied.
 
 ### Closeness Centrality
 
-C(u)=1∑vd(u,v)C(u) = \frac{1}{\sum_{v} d(u,v)}
+$$ C(u)=1∑vd(u,v)C(u) = \frac{1}{\sum_{v} d(u,v)}$$
 
 #### Why this formula exists
 

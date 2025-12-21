@@ -115,7 +115,87 @@ Big Data refers to large, complex, and rapidly growing data sets that cannot be 
 | **8. Best Suited For**              | Applications requiring complex queries and transactions — e.g., **banking systems, ERP, inventory management**.                   | Applications with rapidly changing data or large-scale storage — e.g., **social media, IoT, real-time analytics**.        |
 | **9. Joins**                        | Supports **joins** to relate multiple tables.                                                                                     | Generally **does not support joins**; data is often stored together (denormalized).                                       |
 | **10. Consistency vs Availability** | Prioritizes **consistency** over availability.                                                                                    | Prioritizes **availability and partition tolerance** (as per CAP theorem).                                                |
+# Hive vs RDMBS
 
+| **No.** | **Hive**                                                                                                              | **RDBMS**                                                                                    |
+| :-----: | :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
+|  **1**  | Hive is a **data warehouse tool** built on top of Hadoop for analyzing large volumes of data.                         | RDBMS is a **database management system** used to store and manage structured data.          |
+|  **2**  | Hive is designed for **batch processing** — processes large data in one go.                                           | RDBMS is designed for **transactional processing** — handles frequent read/write operations. |
+|  **3**  | Hive uses **HiveQL**, a SQL-like query language that converts queries into **MapReduce/Spark jobs**.                  | RDBMS uses **SQL**, and queries run directly on the database engine.                         |
+|  **4**  | Works on **HDFS (Hadoop Distributed File System)** — stores data in distributed form.                                 | Stores data on a **single centralized server** or limited cluster.                           |
+|  **5**  | Supports **structured, semi-structured, and unstructured** data.                                                      | Supports only **structured** data with fixed schema.                                         |
+|  **6**  | Follows **Schema-on-Read** — data schema applied when reading data.                                                   | Follows **Schema-on-Write** — data must match schema before writing.                         |
+|  **7**  | Not suitable for **real-time updates or OLTP** (Online Transaction Processing).                                       | Highly suitable for **OLTP**, supporting updates, deletes, and inserts.                      |
+|  **8**  | Provides **high scalability** — can easily scale horizontally by adding more nodes.                                   | Scales **vertically** — by upgrading CPU, RAM, or storage.                                   |
+|  **9**  | Query results may take longer (since it runs distributed jobs), but it can handle **terabytes or petabytes of data**. | Query results are fast for small data, but performance drops for **very large datasets**.    |
+| **10**  | Commonly used for **data analysis, reporting, and big data analytics**.                                               | Commonly used for **transactional systems** like banking or inventory databases.             |
+
+# Hadoop vs RDBMS
+
+|**No.**|**HADOOP**|**RDBMS**|
+|:-:|:--|:--|
+|**1**|Hadoop is a **framework** used for **distributed storage and parallel processing** of large datasets.|RDBMS is a **database management system** used to **store and manage structured data**.|
+|**2**|Designed for **batch processing** of **Big Data**.|Designed for **real-time transaction processing** (OLTP).|
+|**3**|Uses **HDFS (Hadoop Distributed File System)** to store data across multiple machines.|Stores data in a **centralized database** on a single server or small cluster.|
+|**4**|Can process **structured, semi-structured, and unstructured** data.|Handles **only structured** data stored in relational tables.|
+|**5**|Follows **Schema-on-Read** — data schema applied when data is read.|Follows **Schema-on-Write** — data must match schema before being written.|
+|**6**|Does **not support real-time updates, inserts, or deletes**.|Supports **real-time insert, update, and delete** operations.|
+|**7**|Provides **horizontal scalability** — can add more nodes easily to increase capacity.|Provides **vertical scalability** — needs more powerful hardware to scale.|
+|**8**|Processes data using **MapReduce**, **YARN**, or **Spark**.|Processes data using a **database engine** with SQL queries.|
+|**9**|Best suited for **data analysis, big data analytics, and batch processing** tasks.|Best suited for **transactional systems** like banking, inventory, or payroll.|
+|**10**|Works efficiently on **commodity (low-cost) hardware**.|Requires **high-end hardware** for performance and reliability.|
+|**11**|Offers **fault tolerance** — data is replicated across nodes to avoid loss.|Typically has **limited fault tolerance** unless configured with backups.|
+|**12**|Open-source ecosystem including Hive, Pig, Spark, HBase, etc.|Usually commercial systems like Oracle, MySQL, SQL Server, etc.|
+
+# Hive vs HBase
+
+| **No.** | **HIVE**                                                                                                          | **HBASE**                                                                                             |
+| :-----: | :---------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- |
+|  **1**  | Hive is a **data warehouse tool** built on top of Hadoop for **batch processing and analysis** of large datasets. | HBase is a **NoSQL database** built on top of Hadoop for **real-time read/write access** to big data. |
+|  **2**  | Designed for **data analysis and querying** using **HiveQL** (SQL-like language).                                 | Designed for **fast data retrieval and updates** using **key-value pairs**.                           |
+|  **3**  | Works on top of **HDFS** and processes data using **MapReduce or Tez/Spark**.                                     | Also works on **HDFS**, but provides **real-time random read/write** access instead of batch jobs.    |
+|  **4**  | Follows **Schema-on-Read** — schema applied when data is queried.                                                 | Follows **Schema-on-Write** — data model (tables, column families) defined before storing.            |
+|  **5**  | Best suited for **batch processing** — analyzing and summarizing massive data.                                    | Best suited for **real-time operations** — fetching or updating specific records quickly.             |
+|  **6**  | Query language is **HiveQL**, similar to SQL.                                                                     | Query access is **NoSQL API-based** — uses Java or REST API, not SQL.                                 |
+|  **7**  | Data is stored in **tables managed by Hive Metastore**.                                                           | Data is stored in **tables with rows and column families**, similar to Google Bigtable.               |
+|  **8**  | **Latency is high** — queries take time to execute as they run distributed jobs.                                  | **Latency is low** — supports millisecond-level data access.                                          |
+|  **9**  | Used for **data analysis, reporting, and summarization**.                                                         | Used for **real-time applications** like messaging, sensor data, and log updates.                     |
+| **10**  | Not suitable for **real-time inserts or updates**.                                                                | Supports **real-time read/write** of millions of records per second.                                  |
+| **11**  | Provides a **high-level abstraction** for querying data.                                                          | Provides a **low-level storage mechanism** for handling large datasets.                               |
+| **12**  | Ideal for **batch analytics** and **ETL (Extract-Transform-Load)** operations.                                    | Ideal for **OLTP (Online Transaction Processing)** scenarios in big data systems.                     |
+
+# Hive vs Pig
+
+| **No.** | **HIVE**                                                                                      | **PIG**                                                                                    |
+| :-----: | :-------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
+|  **1**  | Hive is a **data warehouse tool** built on Hadoop for **batch processing and data analysis**. | Pig is a **data flow scripting platform** used for **data processing and transformation**. |
+|  **2**  | Designed mainly for **data querying and reporting**.                                          | Designed mainly for **ETL (Extract, Transform, Load)** operations.                         |
+|  **3**  | Uses **HiveQL**, a **SQL-like query language**.                                               | Uses **Pig Latin**, a **procedural scripting language**.                                   |
+|  **4**  | Suitable for users with **SQL knowledge**.                                                    | Suitable for **programmers and data engineers**.                                           |
+|  **5**  | Works on top of **HDFS** and executes queries using **MapReduce / Tez / Spark**.              | Works on **HDFS** and converts Pig Latin scripts into **MapReduce jobs**.                  |
+|  **6**  | Follows **Schema-on-Read** — schema is applied when querying data.                            | Also follows **Schema-on-Read**.                                                           |
+|  **7**  | Best suited for **structured data** and tabular format.                                       | Handles **structured, semi-structured, and unstructured** data efficiently.                |
+|  **8**  | Queries are **declarative** — user specifies _what_ to compute.                               | Scripts are **procedural** — user specifies _how_ to compute.                              |
+|  **9**  | **High latency** — mainly for batch analytics, not real-time processing.                      | Also **high latency**, mainly for batch processing.                                        |
+| **10**  | Commonly used for **data analysis, reporting, and summarization**.                            | Commonly used for **data cleansing, transformation, and preparation**.                     |
+| **11**  | Provides a **higher-level abstraction** for querying data.                                    | Provides **lower-level control** over data processing steps.                               |
+| **12**  | Easier to learn for **non-programmers**.                                                      | Requires some **programming knowledge**.                                                   |
+# Pig vs Hive vs Spark
+
+| **No.** | **PIG**                                                                  | **HIVE**                                                                  | **SPARK**                                                                                    |
+| :-----: | :----------------------------------------------------------------------- | :------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------- |
+|  **1**  | Pig is a **data flow scripting platform** for processing large datasets. | Hive is a **data warehouse tool** for querying and analyzing big data.    | Spark is a **fast, in-memory distributed computing framework**.                              |
+|  **2**  | Mainly used for **ETL (Extract, Transform, Load)** operations.           | Mainly used for **data analysis and reporting**.                          | Used for **data processing, analytics, and real-time computation**.                          |
+|  **3**  | Uses **Pig Latin**, a **procedural scripting language**.                 | Uses **HiveQL**, a **SQL-like declarative language**.                     | Uses APIs in **Scala, Java, Python, and SQL (Spark SQL)**.                                   |
+|  **4**  | Suitable for **programmers and data engineers**.                         | Suitable for users with **SQL background**.                               | Suitable for **data engineers, data scientists, and developers**.                            |
+|  **5**  | Works on **HDFS** and executes scripts as **MapReduce jobs**.            | Works on **HDFS** and executes queries using **MapReduce / Tez / Spark**. | Works on **HDFS, HBase, cloud storage**, and processes data using **in-memory computation**. |
+|  **6**  | Follows **Schema-on-Read**.                                              | Follows **Schema-on-Read**.                                               | Supports **Schema-on-Read** and structured processing via Spark SQL.                         |
+|  **7**  | Best suited for **semi-structured and unstructured data**.               | Best suited for **structured data** in tabular format.                    | Supports **structured, semi-structured, and unstructured data**.                             |
+|  **8**  | Processing is **batch-oriented** with **high latency**.                  | Processing is **batch-oriented** with **high latency**.                   | Supports **batch, streaming, and real-time processing** with **low latency**.                |
+|  **9**  | Provides **lower-level control** over data processing steps.             | Provides **high-level abstraction** for querying data.                    | Provides **high-performance computing** with advanced APIs.                                  |
+| **10**  | Not suitable for **real-time processing**.                               | Not suitable for **real-time processing**.                                | Highly suitable for **real-time analytics and streaming**.                                   |
+| **11**  | Used for **data cleansing and transformation**.                          | Used for **data summarization and reporting**.                            | Used for **machine learning, streaming, graph processing, and analytics**.                   |
+| **12**  | Slower due to **disk-based MapReduce execution**.                        | Slower due to **job-based execution model**.                              | Faster due to **in-memory execution**.                                                       |
 
 # Anatomy of read/write 
 
