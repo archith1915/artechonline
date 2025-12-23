@@ -22,6 +22,11 @@ Reference materials and notes for core subjects
 
 { .block-language-dataview}
 
+| Software Testing and Quality Assurances                                        |
+| ------------------------------------------------------------------------------ |
+| [[content_folders/core subjects/stqa/Life Cycle Models\|Life Cycle Models]] |
+
+{ .block-language-dataview}
 | Operating Systems |
 | ----------------- |
 
