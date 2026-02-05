@@ -20,6 +20,11 @@
 | Practice exam (optional)            | 6,003 INR      |
 | Exam fee (certification exam)       | 18,270 INR     |
 | **Total fee amount**                | **48,633 INR** |
+**Validity:** 3 years. Requires renewal after.
+
+**Renewal:** Requires earning and reporting at least 15 PDUs (Professional Development Units) during the 3 year period. 
+> PDUs can be earned by completing courses on platforms like Udemy, Coursera, LinkedIn etc. **PMI** offers *free* programs for individuals to earn PDUs, bringing the renewal cost to zero.
+> **Thumb rule:** 1 learning hour = 1 PDU. A total of 15 learning hours (at-least) are required for renewal or maintenance of the certificate.
 
 ---
 
